@@ -1,0 +1,19 @@
+body{
+    background-color: #111111;
+    color: #eaeaea ;
+}
+
+#center{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#separate{
+    height: 200px;
+}
+
+#display{
+    font-size: 40px;
+    font-weight: 900;
+}
